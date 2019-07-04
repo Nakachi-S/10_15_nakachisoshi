@@ -2,4 +2,4 @@
 $host = "localhost";
 $username = "root";
 $password = "root";
-$dbname = "register_func";
+$dbname = "gsf_d03_db15";
